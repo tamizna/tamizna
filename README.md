@@ -1,5 +1,6 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tami, an Android Developer 💻.
-# You can find me on [![LinkedIn][1.2]][1].
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### I'm Tami, an Android Developer 💻.
+### You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
