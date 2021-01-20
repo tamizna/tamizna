@@ -1,10 +1,10 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-### I'm Tami, an Android Developer 💻.
+### I'm Tami, an Android Developer 💻 who's interested in UI/UX too 🎨.
 ### You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- Links to your social media accounts -->
 
